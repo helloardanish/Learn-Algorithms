@@ -1,4 +1,4 @@
-A String is a sequence of characters (char values) enclosed in **double quotes (" ")**. Strings are used to store and manipulate text. The data type String is a Java data type but it is not a primitive type. Java provides the **`String`** class, which is part of the **`java.lang`** package.
+A String is a sequence of characters ([char values](https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html)) enclosed in **double quotes (" ")**. Strings are used to store and manipulate text. The data type String is a Java data type but it is not a primitive type. Java provides the **`String`** class, which is part of the **`java.lang`** package.
 
 It is a fundamental data type that almost every Java program uses.
 
